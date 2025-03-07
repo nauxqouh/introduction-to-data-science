@@ -1,2 +1,4 @@
-# introduction-to-data-science
-This repo contains weekly pratical codes for Introduction to Data Science course in university.
+# Description
+This repo contains weekly practical codes for my **Introduction to Data Science** course in university.
+
+Here, I explored techniques at a learning and experimentation level.
